@@ -1,0 +1,21 @@
+a = int(input("sk: "))
+s = a**1
+s2 = a**2
+s3 = a**3
+s4 = a**4
+s5 = a**5
+s6 = a**6
+s7 = a**7
+s8 = a**8
+s9 = a**9
+s10 = a**10
+print("1: ", s)
+print("2  ", s2)
+print("3: ", s3)
+print("4: ", s4)
+print("5: ", s5)
+print("6: ", s6)
+print("7: ", s7)
+print("8: ", s8)
+print("9: ", s9)
+print("10: ", s10)
